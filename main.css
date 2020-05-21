@@ -60,6 +60,11 @@ p{font-size: 18px;
     text-align: center;
     }
 
+.p-badge2{font-size: 24px;
+    color: black;
+    font-weight: normal;
+    text-align: center;
+        }
 .p-badge-large{font-size: 42px;
     color: black;
     font-weight: bolder;
